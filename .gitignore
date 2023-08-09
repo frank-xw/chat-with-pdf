@@ -163,6 +163,7 @@ cython_debug/
 # VS Code
 *.code-workspace
 cspell.json
+.vscode/
 
 # Temp/test file
 temp*
